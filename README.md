@@ -29,4 +29,5 @@ Now the application will be running on `http://localhost:3000/`
 ## Packages
 - Node.js
 - React
+- Socket.io
 - Quill
